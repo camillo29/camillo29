@@ -1,4 +1,4 @@
-Hi, I’m Politechnika Świętokrzyska graduate with IT engineer title (3.5 year study).
+Hi, I’m Politechnika Świętokrzyska graduate with IT engineer title (3.5 year study), currently student on Politechnika Krakowska, working towards master degree.
 I’m interested in fullstack web development (mainly Java (Spring) as Backend and ReactJS as frontend and SQL databases) as well as gamedev (C# with Unity)
 
 Skill set:
@@ -8,12 +8,10 @@ Skill set:
   - HTML
   - CSS
   - SQL
-  - MYSQL
-  - POSTGRESQL
+  - MYSQL, POSTGRESQL
   - C, C++, C#
   - Unity
-  - Visual Studio Code
-  - IntelliJ
+  - Visual Studio Code, IntelliJ
   - English B2 level
 
 <!---
