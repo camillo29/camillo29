@@ -2,7 +2,7 @@ Hi, I’m Politechnika Świętokrzyska graduate with IT engineer title (3.5 year
 I’m interested in fullstack web development (mainly Java (Spring) as Backend and ReactJS as frontend and SQL databases) as well as gamedev (C# with Unity)
 
 Skill set:
-  - Java
+  - Java 11, 16
     * Spring Boot with Hibernate
   - ReactJS
   - HTML
