@@ -1,4 +1,4 @@
-Hi, I’m Politechnika Świętokrzyska graduate with IT engineer title (3.5 year study), currently student on Politechnika Krakowska, working towards master degree.
+Hi, I’m Politechnika Świętokrzyska graduate with IT engineer title (3.5 year study), currently student on Politechnika Krakowska, working towards masters degree.
 I’m interested in fullstack web development (mainly Java (Spring) as Backend and ReactJS as frontend and SQL databases) as well as gamedev (C# with Unity)
 
 Skill set:
@@ -12,9 +12,12 @@ Skill set:
   - C, C++, C#
   - Unity
   - Visual Studio Code, IntelliJ
-  - English B2 level
+  - Polish native and English B2 level
 
-Currently learning Python and Flask
+Currently learning:
+- Python 
+  * Flask
+- MongoDB
 
 <!---
 camillo29/camillo29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
