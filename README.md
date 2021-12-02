@@ -11,7 +11,7 @@ Skill set:
   - MYSQL, POSTGRESQL
   - C, C++, C#
   - Unity
-  - Visual Studio Code, IntelliJ
+  - Visual Studio Code, IntelliJ, Pycharm
   - Polish native and English B2 level
 
 Currently learning:
