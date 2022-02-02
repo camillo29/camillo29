@@ -8,7 +8,7 @@ Skill set:
   - HTML
   - CSS
   - SQL
-  - MYSQL, POSTGRESQL
+  - MYSQL, POSTGRESQL, MongoDB
   - C, C++, C#
   - Unity
   - Visual Studio Code, IntelliJ, Pycharm
@@ -17,7 +17,6 @@ Skill set:
 Currently learning:
 - Python 
   * Flask
-- MongoDB
 
 <!---
 camillo29/camillo29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
