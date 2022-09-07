@@ -10,13 +10,10 @@ Skill set:
   - SQL
   - MYSQL, POSTGRESQL, MongoDB
   - C, C++, C#
+  - Python 3
   - Unity
   - Visual Studio Code, IntelliJ, Pycharm
   - Polish native and English B2 level
-
-Currently learning:
-- Python 
-  * Flask
 
 <!---
 camillo29/camillo29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
